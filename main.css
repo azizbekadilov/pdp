@@ -1,0 +1,207 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  width: 1240px;
+  height: auto;
+  margin-left:  auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+img {
+  display: block;
+}
+
+.start {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+}
+
+.site-logo {
+  width: 107px;
+  height: 30px;
+  margin-top: 56px;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+}
+
+/* .menu {
+  justify-content: baseline;
+} */
+
+.item {
+  font-size: 18px;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+
+.itemss {
+  text-decoration: none;
+  color: #000;
+}
+
+.items {
+  text-decoration: none;
+  width: 109px;
+  height: 23px;
+  color: #7D7987;
+}
+
+.about-site {
+  font-size: 48px;
+  width: 422px;
+  height: 112px;
+}
+
+.about-trafalgar {
+  color: #7D7987;
+  width: 440px;
+  height: 96px;
+  font-size: 21px;
+}
+
+.about-consult {
+  width: 123px;
+  height: 23px;
+  font-size: 18px;
+  padding: 16px 37px 17px;
+  border-radius: 55px;
+  background-color: #458FF6;
+  color: #fff;
+  text-decoration: none;
+}
+
+.first-img {
+  width: 609px;
+  height: 532px;
+  /* margin-left: 131px; */
+
+}
+
+.first-section {
+  margin-top: 95px;
+  display: inline-block;
+}
+
+.first-sectionn {
+    /* background-image: url("./images/trafalgar-header illustration 1.png");
+    background-repeat: no-repeat;  
+    background-position:calc(50%+500px ,) , calc(50%-500px); */
+  display: inline-block;
+}
+
+.second-section {
+  text-align: center;
+  margin-left:  auto;
+  margin-right:  auto;
+}
+
+h2 {
+  padding-top: 200px;
+  font-size: 36px;
+}
+
+.element {
+  margin-left: auto;
+  margin-right: auto;
+  width: 56px;
+ height: 2px;
+ background-color: #000;
+}
+
+.big-list {
+  margin-left: auto;
+  padding-left: 0;
+  margin-top: 50px;
+  text-align: start;
+  list-style: none;
+  text-align: center;
+}
+
+.big-list-items {
+  padding: 68px 58px 47px 41px;
+}
+
+.item-one {
+  width: 380px;
+  height: 380px;
+  border-radius: 20px;
+  /* background-color: #ede8e8; */
+  display: inline-block;
+}
+
+.item-img-one {
+  width: 97px;
+  height: 94px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.about-items {
+  width: 280px;
+  height: 87px;
+  color: #7D7987;
+  font-size: 16px;
+}
+
+.more {
+  width: 200px;
+  height: 56px;
+  border-radius: 55px;
+  border: 1.4px solid #458FF6;
+  padding: 16px 51px 17px;
+  font-size: 18px;
+  color: #458FF6;
+  text-decoration: none;
+}
+
+.theerd-sectionn {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-top: 249px;
+}
+
+.new-element {
+  width: 50px;
+ height: 2px;
+ background-color: #000
+}
+
+.leading {
+  padding-top: 0;
+}
+
+.about-leading {
+  padding-top: 30px;
+  padding-bottom: 57px;
+  color: #7D7987;
+  width: 440px;
+  height: 96px;
+  font-size: 21px;
+}
+
+.moree {
+  width: 200px;
+  height: 56px;
+  border-radius: 55px;
+  border: 1.4px solid #458FF6;
+  padding: 16px 51px 17px;
+  font-size: 18px;
+  color: #458FF6;
+  text-decoration: none;
+
+}
+
